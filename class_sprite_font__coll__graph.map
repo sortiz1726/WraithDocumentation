@@ -1,0 +1,8 @@
+<map id="SpriteFont" name="SpriteFont">
+<area shape="rect" id="node1" title="A sprite font used for get characters (glyps) from a particular texture." alt="" coords="132,909,635,1163"/>
+<area shape="rect" id="node2" title=" " alt="" coords="225,769,395,847"/>
+<area shape="rect" id="node3" href="$class_sprite.html" title="A sprite used to display 2D images." alt="" coords="82,233,394,707"/>
+<area shape="rect" id="node4" href="$class_sprite_modifier_strategy.html" title="A sprite modifier strategy." alt="" coords="5,5,471,171"/>
+<area shape="rect" id="node5" title=" " alt="" coords="449,769,529,847"/>
+<area shape="rect" id="node6" title=" " alt="" coords="419,431,588,509"/>
+</map>

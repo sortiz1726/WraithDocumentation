@@ -1,0 +1,5 @@
+<map id="SpriteModifierStrategy" name="SpriteModifierStrategy">
+<area shape="rect" id="node1" title="A sprite modifier strategy." alt="" coords="299,5,765,171"/>
+<area shape="rect" id="node2" href="$class_sprite_null_modifier_strategy.html" title="A sprite null modifier strategy." alt="" coords="5,219,515,384"/>
+<area shape="rect" id="node3" href="$class_sprite_world_modifier_strategy.html" title="A sprite world modifier strategy." alt="" coords="539,219,1072,384"/>
+</map>

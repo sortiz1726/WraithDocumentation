@@ -1,0 +1,8 @@
+<map id="UpdateDeregistrationCommand" name="UpdateDeregistrationCommand">
+<area shape="rect" id="node1" title="A update deregistration command." alt="" coords="243,220,813,400"/>
+<area shape="rect" id="node3" href="$class_updatable.html" title="Updatable control update callback and registration/deregistration." alt="" coords="268,463,735,760"/>
+<area shape="rect" id="node2" href="$class_scene_registration_command.html" title=" " alt="" coords="83,5,621,171"/>
+<area shape="rect" id="node4" href="$class_update_registration_command.html" title="A update registration command." alt="" coords="5,823,552,1003"/>
+<area shape="rect" id="node5" title=" " alt="" coords="837,271,917,349"/>
+<area shape="rect" id="node6" title=" " alt="" coords="793,49,962,127"/>
+</map>

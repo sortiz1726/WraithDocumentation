@@ -1,0 +1,5 @@
+<map id="Visualizer" name="Visualizer">
+<area shape="rect" id="node1" title="A visualizer responsible to drawing wireframe collision models for user debugging." alt="" coords="5,373,791,817"/>
+<area shape="rect" id="node2" title=" " alt="" coords="299,233,497,311"/>
+<area shape="rect" id="node3" href="$class_render_command.html" title=" " alt="" coords="193,5,603,171"/>
+</map>

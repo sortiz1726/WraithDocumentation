@@ -1,0 +1,4 @@
+<map id="CollisionVolumeBoundingBox" name="CollisionVolumeBoundingBox">
+<area shape="rect" id="node1" title="A collision volume base class." alt="" coords="5,321,648,575"/>
+<area shape="rect" id="node2" href="$class_collision_volume.html" title="A collision volume base class." alt="" coords="57,5,596,273"/>
+</map>

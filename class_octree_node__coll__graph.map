@@ -1,0 +1,5 @@
+<map id="OctreeNode" name="OctreeNode">
+<area shape="rect" id="node1" title="Octree Node contains a Collision OBB along with 8 child Octree Nodes and a parent...." alt="" coords="167,712,498,980"/>
+<area shape="rect" id="node2" href="$class_collision_volume_o_b_b.html" title="An OBB Collision volume" alt="" coords="5,323,660,649"/>
+<area shape="rect" id="node3" href="$class_collision_volume.html" title="A collision volume base class." alt="" coords="63,5,602,273"/>
+</map>

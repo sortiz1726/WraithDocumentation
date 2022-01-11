@@ -1,0 +1,9 @@
+<map id="Alarmable::RegistrationData" name="Alarmable::RegistrationData">
+<area shape="rect" id="node1" title="A registration data." alt="" coords="1125,132,1489,224"/>
+<area shape="rect" id="node4" href="$class_alarmable.html" title=" " alt="" coords="1054,287,1561,701"/>
+<area shape="rect" id="node2" href="$class_alarm_registration_command.html" title=" " alt="" coords="481,764,1014,973"/>
+<area shape="rect" id="node3" href="$class_scene_registration_command.html" title=" " alt="" coords="491,411,1030,577"/>
+<area shape="rect" id="node7" href="$class_alarm_deregistration_command.html" title=" " alt="" coords="1038,779,1593,959"/>
+<area shape="rect" id="node5" title=" " alt="" coords="50,139,130,217"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,5,175,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CollisionVolumeOctree" name="CollisionVolumeOctree">
+<area shape="rect" id="node1" title=" " alt="" coords="5,321,572,604"/>
+<area shape="rect" id="node2" href="$class_collision_volume.html" title="A collision volume base class." alt="" coords="19,5,558,273"/>
+</map>

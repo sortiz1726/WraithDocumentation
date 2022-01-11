@@ -1,0 +1,9 @@
+<map id="OctreeModelManager" name="OctreeModelManager">
+<area shape="rect" id="node1" title="Manager for Octree Models. For loading Octree Models and accessing them within Collidable when reques..." alt="" coords="249,1591,699,1829"/>
+<area shape="rect" id="node2" href="$class_octree_builder.html" title="Octree builder builds Octree Model (all the octree nodes) based on model and depth requested" alt="" coords="5,1245,599,1528"/>
+<area shape="rect" id="node3" title=" " alt="" coords="318,1043,502,1120"/>
+<area shape="rect" id="node4" href="$class_octree_node.html" title="Octree Node contains a Collision OBB along with 8 child Octree Nodes and a parent...." alt="" coords="329,712,659,980"/>
+<area shape="rect" id="node7" title=" " alt="" coords="501,1144,732,1221"/>
+<area shape="rect" id="node5" href="$class_collision_volume_o_b_b.html" title="An OBB Collision volume" alt="" coords="167,323,821,649"/>
+<area shape="rect" id="node6" href="$class_collision_volume.html" title="A collision volume base class." alt="" coords="225,5,763,273"/>
+</map>

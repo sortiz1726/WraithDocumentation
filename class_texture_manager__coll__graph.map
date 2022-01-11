@@ -1,0 +1,6 @@
+<map id="TextureManager" name="TextureManager">
+<area shape="rect" id="node1" title="Manager for textures. For loading textures and accessing them within user defined games object" alt="" coords="5,412,785,753"/>
+<area shape="rect" id="node2" title=" " alt="" coords="355,132,435,209"/>
+<area shape="rect" id="node4" title=" " alt="" coords="566,272,771,349"/>
+<area shape="rect" id="node3" title=" " alt="" coords="311,5,480,83"/>
+</map>

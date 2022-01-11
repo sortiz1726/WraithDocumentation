@@ -1,0 +1,4 @@
+<map id="Time Manager" name="Time Manager">
+<area shape="rect" id="node1" title="The TimeManager hold and gives user information regarding time. Also has freeze framing tool for debu..." alt="" coords="107,5,211,31"/>
+<area shape="rect" id="node2" href="$group___t_o_o_l_s.html" title="These are reference of tools provided by the engine that the user can use. Some are for debugging." alt="" coords="5,5,59,31"/>
+</map>

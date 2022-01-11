@@ -1,0 +1,4 @@
+<map id="Terrain Resources" name="Terrain Resources">
+<area shape="rect" id="node1" href="$group___r_e_s_o_u_r_c_e_s.html" title="Loading external resources into the game. Uses various resource managers: ModelManager,..." alt="" coords="5,5,89,31"/>
+<area shape="rect" id="node2" title="Loading external height maps (as .tga files) to create Terrain Objects. As well as accessing them." alt="" coords="137,5,264,31"/>
+</map>

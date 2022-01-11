@@ -1,0 +1,10 @@
+<map id="UpdatableManager" name="UpdatableManager">
+<area shape="rect" id="node1" title=" " alt="" coords="5,875,428,1069"/>
+<area shape="rect" id="node2" title=" " alt="" coords="139,683,295,761"/>
+<area shape="rect" id="node3" href="$class_updatable.html" title="Updatable control update callback and registration/deregistration." alt="" coords="370,272,837,569"/>
+<area shape="rect" id="node4" href="$class_update_registration_command.html" title="A update registration command." alt="" coords="913,632,1459,812"/>
+<area shape="rect" id="node8" href="$class_update_deregistration_command.html" title="A update deregistration command." alt="" coords="319,632,888,812"/>
+<area shape="rect" id="node5" href="$class_scene_registration_command.html" title=" " alt="" coords="907,338,1446,503"/>
+<area shape="rect" id="node6" title=" " alt="" coords="563,132,643,209"/>
+<area shape="rect" id="node7" title=" " alt="" coords="519,5,688,83"/>
+</map>

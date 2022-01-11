@@ -1,0 +1,10 @@
+<map id="KeyDeregistrationCommand" name="KeyDeregistrationCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="296,220,829,415"/>
+<area shape="rect" id="node5" href="$struct_inputable_1_1_registration_data.html" title="A registration data." alt="" coords="297,477,767,584"/>
+<area shape="rect" id="node2" href="$class_scene_registration_command.html" title=" " alt="" coords="5,5,544,171"/>
+<area shape="rect" id="node6" href="$class_key_registration_command.html" title=" " alt="" coords="162,1264,673,1459"/>
+<area shape="rect" id="node3" href="$class_inputable.html" title=" " alt="" coords="455,787,1155,1201"/>
+<area shape="rect" id="node4" title=" " alt="" coords="473,647,751,724"/>
+<area shape="rect" id="node7" title=" " alt="" coords="868,647,948,724"/>
+<area shape="rect" id="node8" title=" " alt="" coords="843,492,1013,569"/>
+</map>

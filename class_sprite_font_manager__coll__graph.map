@@ -1,0 +1,10 @@
+<map id="SpriteFontManager" name="SpriteFontManager">
+<area shape="rect" id="node1" title="Manager for sprite fonts." alt="" coords="5,1365,567,1663"/>
+<area shape="rect" id="node2" title=" " alt="" coords="303,1225,525,1303"/>
+<area shape="rect" id="node3" href="$class_sprite_font.html" title="A sprite font used for get characters (glyps) from a particular texture." alt="" coords="432,909,935,1163"/>
+<area shape="rect" id="node4" title=" " alt="" coords="598,769,769,847"/>
+<area shape="rect" id="node5" href="$class_sprite.html" title="A sprite used to display 2D images." alt="" coords="527,233,839,707"/>
+<area shape="rect" id="node6" href="$class_sprite_modifier_strategy.html" title="A sprite modifier strategy." alt="" coords="451,5,916,171"/>
+<area shape="rect" id="node7" title=" " alt="" coords="326,769,406,847"/>
+<area shape="rect" id="node8" title=" " alt="" coords="281,431,451,509"/>
+</map>

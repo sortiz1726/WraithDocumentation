@@ -1,0 +1,6 @@
+<map id="SpriteString" name="SpriteString">
+<area shape="rect" id="node1" title="A sprite string that handles 2D text messages on screen" alt="" coords="5,909,577,1221"/>
+<area shape="rect" id="node2" title=" " alt="" coords="225,769,357,847"/>
+<area shape="rect" id="node3" href="$class_sprite.html" title="A sprite used to display 2D images." alt="" coords="135,233,447,707"/>
+<area shape="rect" id="node4" href="$class_sprite_modifier_strategy.html" title="A sprite modifier strategy." alt="" coords="59,5,524,171"/>
+</map>

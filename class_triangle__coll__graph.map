@@ -1,0 +1,3 @@
+<map id="Triangle" name="Triangle">
+<area shape="rect" id="node1" title="Triangle class holding 3 vertices that define a triangle. Used for intersection testing against OBB i..." alt="" coords="5,5,460,259"/>
+</map>

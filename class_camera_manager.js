@@ -1,0 +1,25 @@
+var class_camera_manager =
+[
+    [ "CameraManager", "class_camera_manager.html#ab66d897f3d5f01efe7e4368f16c42d7f", null ],
+    [ "CameraManager", "class_camera_manager.html#a337865ab18c1a8bfc32d6bc65c294ebc", null ],
+    [ "CameraManager", "class_camera_manager.html#a09c0574cb750eedb39934bf3e195fb81", null ],
+    [ "~CameraManager", "class_camera_manager.html#a7a5d263f3fc28809d6c8c3935e571143", null ],
+    [ "Create2DCamera", "class_camera_manager.html#a5f6f6f788b1382c61a748c42d1f20331", null ],
+    [ "CreateCamera", "class_camera_manager.html#a09d9ef30ba6819f9dfb60891a2b40687", null ],
+    [ "createDefaultCamera", "class_camera_manager.html#af466b2041a347593d910625e192e0287", null ],
+    [ "getCurrent2DCamera", "class_camera_manager.html#ac986a74a6c1df3d903ac29991feae958", null ],
+    [ "getCurrentCamera", "class_camera_manager.html#a7aa72ca498b4f7ec511f78de3a2e3719", null ],
+    [ "getDefault2DCamera", "class_camera_manager.html#af106dd0ff04f43dbe7eaf4199ae2b7e5", null ],
+    [ "getDefaultCamera", "class_camera_manager.html#aa325d73b6c1bba3cda0461e1f947a1fb", null ],
+    [ "operator=", "class_camera_manager.html#a88daaaad6a4368a6d3ba21e4b5512d7a", null ],
+    [ "operator=", "class_camera_manager.html#aef716f486fad7f6a2c26be6e01f6a6c3", null ],
+    [ "setCurrent2DCamera", "class_camera_manager.html#aab3ca87ca81784f047eb9f0c3dee7e4f", null ],
+    [ "setCurrentCamera", "class_camera_manager.html#ab7b034a847276bd1e4be8b4231470245", null ],
+    [ "setDefault2DCameraAsCurrentCamera", "class_camera_manager.html#ac91c767cfb5f4f94188e96f2bb8ef8a4", null ],
+    [ "setDefaultCameraAsCurrentCamera", "class_camera_manager.html#aff9dafb48466d243ab2f0f98c806fa5e", null ],
+    [ "CameraManagerAttorney", "class_camera_manager.html#a9ccced59c1ea3f69f081eebbcf719cc6", null ],
+    [ "_pCurrent2DCamera", "class_camera_manager.html#a663d2d1b4a20725d1d58f9c53241ba0c", null ],
+    [ "_pCurrentCamera", "class_camera_manager.html#ae7b51804fa9bd87032ea380c06a4fa98", null ],
+    [ "_pDefault2DCamera", "class_camera_manager.html#a7f772b630f056e76092698290f8f0805", null ],
+    [ "_pDefaultCamera", "class_camera_manager.html#acb92b7a5072fd5612c495859ddd4d59e", null ]
+];

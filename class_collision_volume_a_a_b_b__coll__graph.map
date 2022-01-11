@@ -1,0 +1,4 @@
+<map id="CollisionVolumeAABB" name="CollisionVolumeAABB">
+<area shape="rect" id="node1" title="A Collision Volume AABB." alt="" coords="37,321,512,677"/>
+<area shape="rect" id="node2" href="$class_collision_volume.html" title="A collision volume base class." alt="" coords="5,5,544,273"/>
+</map>

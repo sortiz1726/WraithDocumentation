@@ -1,0 +1,4 @@
+<map id="TimeManager" name="TimeManager">
+<area shape="rect" id="node1" title="Manager for time related data such as total run time and frame time." alt="" coords="5,307,368,604"/>
+<area shape="rect" id="node2" href="$class_freeze_time.html" title=" " alt="" coords="15,5,358,244"/>
+</map>

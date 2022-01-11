@@ -1,0 +1,9 @@
+<map id="Tools" name="Tools">
+<area shape="rect" id="node1" href="$group___wraith-_a_p_i.html" title="These are reference of commands to be used by the user." alt="" coords="5,104,91,129"/>
+<area shape="rect" id="node7" title="These are reference of tools provided by the engine that the user can use. Some are for debugging." alt="" coords="139,104,192,129"/>
+<area shape="rect" id="node2" href="$group___w_r_a_i_t_h_e_n_g_i_n_e.html" title="The Wraith engine class is the core aspect of the program that runs everything. It also offers settin..." alt="" coords="242,5,342,31"/>
+<area shape="rect" id="node3" href="$group___m_a_t_h_t_o_o_l_s.html" title="Provides a few math tools from MathTools namespace that user can use. A few tools include getting sca..." alt="" coords="249,55,335,80"/>
+<area shape="rect" id="node4" href="$group___v_i_s_u_a_l_i_z_e_r.html" title="The Visualizer is used for visualizing many things such as the Collision Volume of a Game Object,..." alt="" coords="253,104,331,129"/>
+<area shape="rect" id="node5" href="$group___t_i_m_e_m_a_n_a_g_e_r.html" title="The TimeManager hold and gives user information regarding time. Also has freeze framing tool for debu..." alt="" coords="240,153,344,179"/>
+<area shape="rect" id="node6" href="$group___s_c_r_e_e_n_l_o_g.html" title="The ScreenLog is used for displaying console messages on the game screen." alt="" coords="250,203,334,228"/>
+</map>

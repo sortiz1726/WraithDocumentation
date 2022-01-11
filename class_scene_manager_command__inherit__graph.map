@@ -1,0 +1,5 @@
+<map id="SceneManagerCommand" name="SceneManagerCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="267,5,769,171"/>
+<area shape="rect" id="node2" href="$class_scene_change_command.html" title=" " alt="" coords="5,219,495,399"/>
+<area shape="rect" id="node3" href="$class_scene_change_null_command.html" title=" " alt="" coords="519,226,1053,391"/>
+</map>

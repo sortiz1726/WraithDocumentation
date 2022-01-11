@@ -1,0 +1,12 @@
+<map id="Drawable2DManager" name="Drawable2DManager">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1021,449,1216"/>
+<area shape="rect" id="node2" title=" " alt="" coords="152,830,303,907"/>
+<area shape="rect" id="node3" href="$class_drawable.html" title=" " alt="" coords="959,272,1453,716"/>
+<area shape="rect" id="node4" href="$class_draw2_d_registration_command.html" title=" " alt="" coords="929,779,1483,959"/>
+<area shape="rect" id="node6" href="$class_draw2_d_deregistration_command.html" title=" " alt="" coords="327,779,904,959"/>
+<area shape="rect" id="node9" href="$class_draw_registration_command.html" title=" " alt="" coords="1507,779,2030,959"/>
+<area shape="rect" id="node10" href="$class_draw_deregistration_command.html" title=" " alt="" coords="2055,779,2600,959"/>
+<area shape="rect" id="node5" href="$class_scene_registration_command.html" title=" " alt="" coords="1683,411,2222,577"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1166,132,1246,209"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1121,5,1291,83"/>
+</map>

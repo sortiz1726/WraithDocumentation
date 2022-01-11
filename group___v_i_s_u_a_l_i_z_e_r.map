@@ -1,0 +1,4 @@
+<map id="Visualizer" name="Visualizer">
+<area shape="rect" id="node1" title="The Visualizer is used for visualizing many things such as the Collision Volume of a Game Object,..." alt="" coords="107,5,185,31"/>
+<area shape="rect" id="node2" href="$group___t_o_o_l_s.html" title="These are reference of tools provided by the engine that the user can use. Some are for debugging." alt="" coords="5,5,59,31"/>
+</map>

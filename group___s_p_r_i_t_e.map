@@ -1,0 +1,4 @@
+<map id="Sprite" name="Sprite">
+<area shape="rect" id="node1" title="A Sprite entity is used for displaying a 2D image on the screen. It can be used anywhere within a use..." alt="" coords="116,5,172,31"/>
+<area shape="rect" id="node2" href="$group___s_p_r_i_t_e_s.html" title="Sprites are 2D entites meant to display either an image using a Sprite entity or a text message using..." alt="" coords="5,5,68,31"/>
+</map>

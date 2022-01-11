@@ -1,0 +1,4 @@
+<map id="Alarms" name="Alarms">
+<area shape="rect" id="node1" href="$group___g_a_m_e_o_b_j_e_c_t.html" title="All user defined game entities will be derived from GameObject base class." alt="" coords="5,5,100,31"/>
+<area shape="rect" id="node2" title="Each GameObject has up to 3 alarms to used. NOTE: GameObject Entity must be registered in order to pr..." alt="" coords="148,5,211,31"/>
+</map>

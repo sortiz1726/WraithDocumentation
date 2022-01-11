@@ -1,0 +1,8 @@
+<map id="CollisionVolume" name="CollisionVolume">
+<area shape="rect" id="node1" title="A collision volume base class." alt="" coords="1076,5,1615,273"/>
+<area shape="rect" id="node2" href="$class_collision_volume_a_a_b_b.html" title="A Collision Volume AABB." alt="" coords="5,321,480,677"/>
+<area shape="rect" id="node3" href="$class_collision_volume_b_sphere.html" title="A Collision Volume Bsphere." alt="" coords="505,373,999,626"/>
+<area shape="rect" id="node4" href="$class_collision_volume_bounding_box.html" title="A collision volume base class." alt="" coords="1024,373,1667,626"/>
+<area shape="rect" id="node5" href="$class_collision_volume_o_b_b.html" title="An OBB Collision volume" alt="" coords="1691,336,2346,663"/>
+<area shape="rect" id="node6" href="$class_collision_volume_octree.html" title=" " alt="" coords="2370,358,2937,641"/>
+</map>

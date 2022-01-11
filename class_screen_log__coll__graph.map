@@ -1,0 +1,10 @@
+<map id="ScreenLog" name="ScreenLog">
+<area shape="rect" id="node1" title="A screen log used for writing messages on the game screen. To be used like a output console for debug..." alt="" coords="259,1225,603,1508"/>
+<area shape="rect" id="node2" href="$class_sprite_font.html" title="A sprite font used for get characters (glyps) from a particular texture." alt="" coords="5,909,508,1163"/>
+<area shape="rect" id="node3" title=" " alt="" coords="171,769,342,847"/>
+<area shape="rect" id="node4" href="$class_sprite.html" title="A sprite used to display 2D images." alt="" coords="101,233,413,707"/>
+<area shape="rect" id="node5" href="$class_sprite_modifier_strategy.html" title="A sprite modifier strategy." alt="" coords="24,5,489,171"/>
+<area shape="rect" id="node6" title=" " alt="" coords="523,769,603,847"/>
+<area shape="rect" id="node8" title=" " alt="" coords="533,997,679,1075"/>
+<area shape="rect" id="node7" title=" " alt="" coords="479,431,648,509"/>
+</map>

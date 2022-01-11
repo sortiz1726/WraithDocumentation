@@ -1,0 +1,4 @@
+<map id="Inputs" name="Inputs">
+<area shape="rect" id="node1" title="For detecting inputs of GameObject entity every frame. NOTE: GameObject Entity must be registered in ..." alt="" coords="148,5,205,31"/>
+<area shape="rect" id="node2" href="$group___g_a_m_e_o_b_j_e_c_t.html" title="All user defined game entities will be derived from GameObject base class." alt="" coords="5,5,100,31"/>
+</map>

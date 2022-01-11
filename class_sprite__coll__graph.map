@@ -1,0 +1,4 @@
+<map id="Sprite" name="Sprite">
+<area shape="rect" id="node1" title="A sprite used to display 2D images." alt="" coords="82,233,394,707"/>
+<area shape="rect" id="node2" href="$class_sprite_modifier_strategy.html" title="A sprite modifier strategy." alt="" coords="5,5,471,171"/>
+</map>
